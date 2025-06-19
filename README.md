@@ -33,8 +33,8 @@ Sigue estos pasos en orden para levantar la aplicación completa.
 
 a. **Clona el repositorio** (si aún no lo has hecho):
 ```bash
-git clone [URL de tu repositorio]
-cd [nombre-de-la-carpeta-del-proyecto]
+git clone https://github.com/santigarciamarzano/stock-almacen-prueba.git
+cd stock-almacen-prueba
 ```
 b. **Inicia la Base de Datos con Docker:**
 Abre una terminal y ejecuta el siguiente comando. Esto creará y ejecutará un contenedor de PostgreSQL en segundo plano.
