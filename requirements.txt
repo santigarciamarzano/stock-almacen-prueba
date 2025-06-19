@@ -1,0 +1,9 @@
+# requirements.txt
+
+# framework web y servidor
+fastapi
+uvicorn
+
+# ORM y conector de base de datos
+sqlalchemy
+psycopg2-binary
